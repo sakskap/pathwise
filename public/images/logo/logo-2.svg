@@ -1,0 +1,11 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="100" viewBox="0 0 400 100">
+  <!-- Purple rounded square -->
+  <rect x="0" y="10" width="80" height="80" rx="16" ry="16" fill="#6246EA"/>
+
+  <!-- White 'P' centered inside the square -->
+  <text x="40" y="70" text-anchor="middle" font-family="Segoe UI, Inter, sans-serif" font-size="50" fill="#FFFFFF" font-weight="bold">P</text>
+
+  <!-- 'Pathwise' text next to the icon -->
+  <text x="100" y="72" font-family="Segoe UI, Inter, sans-serif" font-size="40" fill="#111111" font-weight="600">Pathwise</text>
+</svg>
